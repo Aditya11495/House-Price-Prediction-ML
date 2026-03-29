@@ -25,42 +25,22 @@ The goal of this project is to predict house prices based on various features su
 
 ---
 
-## 📊 Visualizations
+# Visualizations
 
 * Actual vs Predicted Plot
 * Residual Plot
 * Error Distribution
 
----
-
-## 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
-```
-
-```bash
-python app.py
-```
-
----
-
-## 🧠 Key Learnings
+# Key Learnings
 
 * Importance of data cleaning
 * Feature consistency during training & testing
 * Model evaluation using multiple metrics
 
----
 
-## 📌 Future Improvements
+# Future Improvements
 
 * Use advanced models (Random Forest, XGBoost)
 * Add web interface (Streamlit)
 * Improve feature engineering
 
----
-
-## 👨‍💻 Author
-
-Aditya Singh
