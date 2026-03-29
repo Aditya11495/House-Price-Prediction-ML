@@ -1,19 +1,3 @@
-House-Price-Prediction-ML/
-│
-├── data/
-│   └── cleaned_data.csv
-│
-├── notebook/
-│   └── house_price_analysis.ipynb
-│
-├── model/
-│   └── house_model.pkl
-│
-├── app.py
-├── requirements.txt
-├── README.md
-# 🏠 House Price Prediction using Machine Learning
-
 # Problem Statement
 
 The goal of this project is to predict house prices based on various features such as area, number of bedrooms, bathrooms, and floors.
